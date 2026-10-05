@@ -1,0 +1,10 @@
+{
+  "description": "Creates a modern, persuasive landing page themed around GTA 6 to effectively showcase and sell a PlayStation 5, enhancing buyer engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
