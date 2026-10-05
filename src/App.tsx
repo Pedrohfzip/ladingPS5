@@ -1,4 +1,4 @@
-import ps5Bundle from "./assets/ps5-bundle.jpg";
+import ps5Bundle from "./assets/ps5img.jpg";
 
 const purchaseUrl = "https://meli.la/2CfY8vQ";
 
